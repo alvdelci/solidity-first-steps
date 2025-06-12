@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "numero",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "texto",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"solidity_udemy/FirstContract.sol": "FirstContract"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"solidity_udemy/FirstContract.sol": {
+			"keccak256": "0xa6561f5e2729ef602e9733a2dfd4054a32cb1d7dcc2b1da45e253b9a07597b5d",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://4833a50c59516a876ac613ef4d099cafe04cc8bd287f40b426d86802f6543672",
+				"dweb:/ipfs/QmaiTXvGBsf1jWgEeSmd6bcR343BdLRTA9W4gjkimDQVoK"
+			]
+		}
+	},
+	"version": 1
+}
