@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.30+commit.73712a01"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -47,7 +47,7 @@
 		"compilationTarget": {
 			"solidity_udemy/FirstContract.sol": "FirstContract"
 		},
-		"evmVersion": "prague",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"solidity_udemy/FirstContract.sol": {
-			"keccak256": "0xa6561f5e2729ef602e9733a2dfd4054a32cb1d7dcc2b1da45e253b9a07597b5d",
-			"license": "UNLICENSED",
+			"keccak256": "0x36fb0008388bc450d4ea4e85295837823e0ac17d4d169853f3e4e1a1dd898790",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://4833a50c59516a876ac613ef4d099cafe04cc8bd287f40b426d86802f6543672",
-				"dweb:/ipfs/QmaiTXvGBsf1jWgEeSmd6bcR343BdLRTA9W4gjkimDQVoK"
+				"bzz-raw://e066ac43878b83d6df44d3e74a3aa54153d0625fe1d772424a9876114ed2feb8",
+				"dweb:/ipfs/Qmdc4h56uJzna38fUEF2fjaNREdKKQXm4wE33vjNLjVWeS"
 			]
 		}
 	},
