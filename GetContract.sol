@@ -10,4 +10,8 @@ contract GetVar {
         return numero;
     }
 
+    function getDouble() public view returns(int) {
+        return numero * 2;
+    }
+
 }

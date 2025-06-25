@@ -7,6 +7,19 @@
 		"abi": [
 			{
 				"inputs": [],
+				"name": "getDouble",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "getNumero",
 				"outputs": [
 					{
@@ -47,11 +60,11 @@
 	},
 	"sources": {
 		"GetContract.sol": {
-			"keccak256": "0xc987b0ad9f31a66306fc1d73d9b737758dd5cfb8624638cdc983ba2ff886cba6",
+			"keccak256": "0x8625cb142a88279daf32fa117499a2eb3a30f97f034f9455585b17787bf7138f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1f3ad9969234883c878b7d4db9f258528deca68c90fe1d8c66a189f301093060",
-				"dweb:/ipfs/Qmatq7SSFxndDgKhXMXNvD1SPED5vaTR5j1aN2qRMNUNWo"
+				"bzz-raw://17cd87afa6c516b0b33ef4a9d928e579ca335e6c38750a783cc8da70ed124631",
+				"dweb:/ipfs/QmTVSRFP9eCcXCZiaatvvv8a44Sty33vzTofZ5BKs1gSg5"
 			]
 		}
 	},
